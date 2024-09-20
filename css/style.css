@@ -1116,11 +1116,11 @@ hr.thick{
     vertical-align: middle;
 }
 .hs-image-2{
-    width: 0.75em;
-    height: 0.75em;
+    width: 0.79em;
+    height: 0.79em;
     margin-top: -0.2em;
     vertical-align: middle;
-    border-radius: 50%;
+    border-radius: 80px;
 }
 .hs-image-3{
     height: 0.75em !important;
