@@ -5250,6 +5250,7 @@ a.logo:hover{
     transform: translate(-50%,-50%);
     width: auto;
     height: 100%;
+    opacity: 0.4;
 }
 
 /* 
@@ -7640,7 +7641,7 @@ img.services-image{
     transform: translateZ(0);
 }
 .portfolio-3-image img{
-    width: 100%;    
+    width: 100%;   
     transform: scale(1.037) translateZ(0.01px);
     transition: all .5s var(--ease-out-short);
 }
