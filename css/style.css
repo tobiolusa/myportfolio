@@ -288,7 +288,7 @@ img:not([draggable]), embed, object, video{
     min-height: 90vh;
 }
 .min-height-100vh{
-    min-height: 100vh !important;
+    min-height: 870vh !important;
     min-height: 100svh !important;
 }
 .align-center{ text-align:center !important; }
